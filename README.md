@@ -20,7 +20,7 @@
 ### 📫 Contact Me
 
 - 📧 ali.said.alizadeh@gmail.com
-- 💼 [LinkedIn](#) *(share your profile link if you'd like it added)*
+- 💼 [LinkedIn]
 
 ---
 
