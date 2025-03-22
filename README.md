@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ali Alizade 👋
 
-<!--
-**Alizadehh1/Alizadehh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate** – Azerbaijan State Oil and Industry University  
+🎓 **Master's Student** – Vilnius Tech, Information Technology Security & IT  
+📍 **Currently in**: Vilnius, Lithuania  
+💻 **Specializing in**: C# REST APIs | Backend Development | Web Application Security  
+🛡️ **Thesis**: *Web Service API Vulnerability Scanning and Attack Detection*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Interests
+
+- 🔐 Web & API Security (OWASP, token-based auth, attack detection)
+- ⚙️ Backend Architecture (Clean Architecture, N-Tier, CQRS)
+- ☁️ Scalable and secure web systems
+- 🧪 Research-driven development
+
+---
+
+### 📫 Contact Me
+
+- 📧 ali.said.alizadeh@gmail.com
+- 💼 [LinkedIn](#) *(share your profile link if you'd like it added)*
+
+---
+
+> Always learning. Always building. Always securing. 🧠💻
